@@ -11,7 +11,7 @@
 
 ## 🖼️ Demo
 
-![App Screenshot](screenshot.png)  
+![App Screenshot]("C:\Users\USER\Downloads\Resume_classifier.png")  
 *(Replace this with a real screenshot of your app interface)*
 
 ---
